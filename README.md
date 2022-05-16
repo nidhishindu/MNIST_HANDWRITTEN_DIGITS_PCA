@@ -1,0 +1,2 @@
+# MNIST_HANDWRITTEN_DIGITS_PCA
+Predictive Modeling
